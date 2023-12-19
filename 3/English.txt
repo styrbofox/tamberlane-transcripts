@@ -1,14 +1,13 @@
-OFFSCREEN: Mushrooms, please! I need the mushrooms!
+OFFSCREEN: Seened, palun! Ma vajan seeni.
 
-BAT: Chanterelles or velvets?
+BAT: Kukeseened või puravikud?
+DEER: Kukeseened.
+BAT: Oled sa kindel? Ma arvasin, et puravikud olid...
+DEER: *Kukeseened.*
 
-DEER: Chanterelles.
-BAT: Are you sure? I thought velvets were...
-DEER: *Chanterelles.*
+BAT: Hästi, siis! Kukeseened, kohe tulevad!
 
-BAT: All right, then! Chanterelles, coming right up!
+BAT: Samal ajal kui sa tegeled ema omletiga,
+BAT: Ma teen preili Cori hommikupiruka valmis!
 
-BAT: While you work on Mum's omelet,
-BAT: I'll get Miss Cori's morning pie ready!
-
-OFFSCREEN: ***ARGH!!***
+OFFSCREEN: ***AARGH!!***
